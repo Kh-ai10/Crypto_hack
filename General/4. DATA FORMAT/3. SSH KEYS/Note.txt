@@ -1,0 +1,3 @@
+Câu  lệnh để chuyển ssh key sam PEM FILE: ssh-keygen -f key.pub -e -m pem
+Trang web để chuyển từ SSH KEY sang file định dạng PEM
+https://clustercs.com/kb/docs/clustercs/server-setup/add-a-server/convert-a-ssh-keygen-public-key-to-a-pem-format/
